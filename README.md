@@ -14,6 +14,9 @@ python main.py first_image_path second_image_path (optional) output_file.wav
 
 Open an issue if any bugs found
 
+## Decoding
+
+You can decode the generated data using [noaa-apt image decoder](https://noaa-apt.mbernardi.com.ar/)
 
 ```
 APT encoder
