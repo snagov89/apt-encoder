@@ -1,3 +1,21 @@
+# APT-ENCODER Rewritted in python
+
+
+#### Massive thanks to the original creator of the C++ program.
+#### Check the original repo [here](https://github.com/gkbrk/apt-encoder)
+
+
+## Usage
+
+```
+pip install -r requirements.txt
+python main.py first_image_path second_image_path (optional) output_file.wav
+```
+
+Open an issue if any bugs found
+
+
+```
 APT encoder
 ===========
 
@@ -90,3 +108,4 @@ APT encoder
 3. Links and references
 
    [1]: https://en.wikipedia.org/wiki/Netpbm#PGM_example
+```
